@@ -11,7 +11,7 @@
     tools:context="com.test.test.testingapps.MainActivity">
 
     <TextView
-        android:text="Hello Worldstar!"
+        android:text="Hello Worldstar123!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
